@@ -1,4 +1,0 @@
-User-agent: *
-Disallow:
-
-Sitemap: https://semesterpoint.com/sitemap.xml
